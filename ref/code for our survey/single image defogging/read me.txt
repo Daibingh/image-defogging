@@ -1,0 +1,16 @@
+This attachment provides some defogging algorithms used in this paper.
+Comments and bug reports are welcome.  Email to ckghostwj@126.com
+demo_DCP_soft_matting.m: the dark channel priori based defogging algorithm by using soft matting method to                          optimize the transmission.
+
+demo_DCP_filtering.m   :the dark channel priori based defogging algorithm by using bilateral filtering, joint                         bilateral filtering and guided filtering for transmission potimization.
+
+demo_CLAHE_defogging.m : using CLAHE to enhance the foggy image.
+%  For more detials, please see our paper:
+%  Y. Xu, J. Wen, L. Fei, Z. Zhang,
+%  Review of video and image defogging algorithms and related studies on image restoration and enhancement,
+%  DOI: 10.1109/ACCESS.2015.2511558. In IEEE ACCESS, 2016.
+
+By the way:
+Code of Tarel et al. please see their homepage: http://perso.lcpc.fr/tarel.jean-philippe/index.html
+Code of Meng et al. is available at: http://www.escience.cn/people/menggaofeng/research.html
+Code of MSRCR : http://www.ipol.im/pub/art/2014/107/ 

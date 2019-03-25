@@ -1,0 +1,9 @@
+%  CORRESPONDENCE INFORMATION
+%  This code is written by Jie Wen 
+%
+%  Comments and bug reports are welcome.  Email to ckghostwj@126.com
+
+%  WORK SETTING:
+%  This code has been compiled and tested by using MATLAB R2012a
+
+run demo.m to caculate the objective quality improvement degree of defogging algorithms.
